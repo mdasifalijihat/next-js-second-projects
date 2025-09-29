@@ -4,8 +4,7 @@ export default function page() {
   return (
     <div>
       <main className="mt-8">
-        <h1 className="text-3xl font-bold underline">Hello, Next.js! </h1>
-        <p> lorem </p>
+        lorem ipsum dolor sit amet consectetur adipiscing elit lorem20 
       </main>
     </div>
   );
